@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(65, 65, 138);
+}
+.image-profile{
+    width: 150px;
+    height: 200px;
+    
+}
+h1{
+    color: rgba(255, 0, 157, 0.445);
+
+}
+.head{
+    display: block;
+    text-align: center;
+
+}
+h5{
+    text-align: justify;
+}
